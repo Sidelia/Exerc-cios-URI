@@ -20,4 +20,8 @@ int main() {
 	printf("CIRCULO: %.3lf\n", CIRCULO);
 	printf("TRAPEZIO: %.3lf\n", TRAPEZIO);
 	printf("QUADRADO: %.3lf\n", QUADRADO);
+	printf("RETANGULO: %.3lf\n", RETANGULO);	
+	
+	
+	return 0;
 }
